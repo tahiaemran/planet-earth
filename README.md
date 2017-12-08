@@ -1,3 +1,3 @@
 # planet-earth
 
-#Project Files for CS316
+Project Files for CS316
